@@ -1,6 +1,2 @@
 #!/bin/bash
-wc -l 3-listfiles
-
-
-
-
+ls -l
