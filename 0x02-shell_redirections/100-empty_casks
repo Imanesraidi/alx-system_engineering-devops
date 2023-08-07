@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -emplty |rev | cut -d '/ -f 1 | rev
+find . -emplty | rev | cut -d '/ -f 1 | rev
