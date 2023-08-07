@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -emplty -printf '%f\n'
